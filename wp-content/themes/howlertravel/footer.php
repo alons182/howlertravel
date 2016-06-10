@@ -11,7 +11,7 @@
 
 ?>
 
-	<section id="contact" class="contact">
+	<section  class="contact">
 		<div class="inner">
 			
 				<div class="contact-container">
@@ -45,7 +45,7 @@
 
 				</div>
 				
-			
+			 <?php get_template_part( 'template-parts/float', 'contact' ); ?>
 		</div>
 	</section>
 	<footer class="footer">

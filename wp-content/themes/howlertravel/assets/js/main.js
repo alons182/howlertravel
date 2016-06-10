@@ -22,6 +22,27 @@
 
        });
 
+$('.menu-item-12 a').magnificPopup({
+        type: 'inline',
+        midClick: true,
+        removalDelay: 500, //delay removal by X to allow out-animation
+        callbacks: {
+            beforeOpen: function() {
+
+                this.st.mainClass = 'mfp-zoom-out';
+                $('body').addClass('mfp-open');
+            },
+            beforeClose: function() {
+
+               
+                $('body').removeClass('mfp-open');
+            }
+
+        }
+
+       
+    });
+
   $('.t-prices').closest('div').css('width', '60%');
 
  $(".owl-carousel").owlCarousel({
@@ -58,7 +79,7 @@
 
 
                 $root.animate({
-                    scrollTop: jQuery(anchor).offset().top-155
+                    scrollTop: jQuery(anchor).offset().top-80
                 }, 500, function() {
                     window.location.hash = anchor;
                 });

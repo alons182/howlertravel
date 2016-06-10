@@ -129,6 +129,15 @@ function howlertravel_scripts() {
 add_action( 'wp_enqueue_scripts', 'howlertravel_scripts' );
 
 /**
+ * Trick for class to anchor menu
+ * @param [type] $ulclass [description]
+ */
+function add_menuclass($ulclass) {
+return preg_replace('/rel="anchor"/', 'class="anchor"', $ulclass, -1);
+}
+add_filter('wp_nav_menu','add_menuclass');
+
+/**
  * Implement the Custom Header feature.
  */
 require get_template_directory() . '/inc/custom-header.php';

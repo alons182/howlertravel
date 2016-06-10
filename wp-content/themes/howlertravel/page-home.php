@@ -7,7 +7,7 @@
 get_header(); ?>
 <section class="main">
 		<div class="inner">
-			<div class="services">
+			<div id="services" class="services">
 				<h1 class="services-title">Featured Services</h1>
 				<div class="services-container">
 					<div class="services-item">
@@ -15,33 +15,33 @@ get_header(); ?>
 							<i class="icon-car"></i>
 						</figure>
 						<div class="services-info">
-							<a href="#" ><h2>lorem ipsum</h2></a>
+							<a href="<?php echo esc_url( home_url( '/transportation' ) ); ?>" ><h2>Transportation</h2></a>
 							<p>
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium architecto iusto consequuntur.
+								Private Transportation from (LIR) Liberia Airport, Liberia, CR to...
 							</p>
 						</div>
 						
 					</div>
 					<div class="services-item">
 						<figure>
-							<i class="icon-truck"></i>
+							<i class="fa fa-star"></i>
 						</figure>
 						<div class="services-info">
-							<a href="#" ><h2>lorem ipsum</h2></a>
+							<a href="<?php echo esc_url( home_url( '/one-day-tours' ) ); ?>" ><h2>One Day Tours</h2></a>
 							<p>
-								doloremque dignissimos quidem aliquid optio ipsam. Similique odit rerum ipsum officia, nostrum et inventore
+								Want a full day tour experience, you can choose adventure, natural walks, cultural tours and more !! 
 							</p>
 						</div>
 						
 					</div>
 					<div class="services-item">
 						<figure>
-							<i class="icon-clock-o"></i>
+							<i class="fa fa-plane"></i>
 						</figure>
 						<div class="services-info">
-							<a href="#" ><h2>lorem ipsum</h2></a>
+							<a href="http://www.flightstats.com/" target="_blank"><h2>Flight Stats</h2></a>
 							<p>
-								 asperiores alias sint dignissimos Similique odit rerum ipsum officia, nostrum et inventore
+								 Check  Flight Status Information from any airline, just click here
 							</p>
 						</div>
 						

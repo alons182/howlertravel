@@ -33,7 +33,7 @@ gulp.task('js', function () {
       /*'./assets/js/vendor/jquery.isotope.min.js',*/
       /*'./assets/js/vendor/isotope.pkgd.min.js',*/
       
-      /*'./assets/js/vendor/jquery.magnific-popup.min.js',*/
+      './assets/js/vendor/jquery.magnific-popup.min.js',
      /* './assets/js/vendor/typewriter.js',
       /*'./assets/js/vendor/jquery.cycle2.min.js',*/
       /*'./assets/js/vendor/chosen.jquery.min.js',
@@ -62,7 +62,7 @@ gulp.task('stylus', function () {
 });
 
 gulp.task('css', function () {
-  gulp.src(['./assets/css/main.css','./assets/css/owl.carousel.css','./assets/css/animate.css','./fonts/font-awesome-4.1.0/css/font-awesome.min.css'/*,'./fonts/eleganticons/et-icons.css'*/])
+  gulp.src(['./assets/css/main.css','./assets/css/magnific-popup.css','./assets/css/owl.carousel.css','./assets/css/animate.css','./fonts/font-awesome-4.1.0/css/font-awesome.min.css'/*,'./fonts/eleganticons/et-icons.css'*/])
     /*.pipe(minifyCSS({ keepSpecialComments: '*', keepBreaks: '*'}))*/
     /*.pipe(cleanCSS({compatibility: 'ie8'}))*/
     .pipe(concat('style.css'))
