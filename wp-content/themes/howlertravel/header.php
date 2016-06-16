@@ -24,7 +24,7 @@
 <header class="header">
 		<div class="inner">
 			
-			<a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="header-logo">LOGO</a>
+			<a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="header-logo"><img src="<?php echo get_template_directory_uri();  ?>/img/logo.png" alt="Howler Travel"><span class="header-logo-text">Howler Travel</span></a>
 		
 			<?php wp_nav_menu( array(
 	                     'theme_location' => 'primary',
