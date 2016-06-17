@@ -52,7 +52,7 @@
 		<div class="inner">
 			
 			<div class="copy">
-				Guanacaste Howler Travels &copy; 2016. <a href="#"><i class="icon-avotz"></i></a>
+				Guanacaste Howler Travel &copy; 2016. <a href="#"><i class="icon-avotz"></i></a>
 			</div>
 			
 			
