@@ -18,18 +18,18 @@
 					<div class="contact-item">
 						<h3>Telephone</h3>
 						<p>
-						<span>Telephone :</span> +506 999-9999 <br />
-						<span>Fax :</span> +506 999-9999 </p>
+						<span>Telephone :</span> +(506) 7289-2376. <br />
+						
 					</div>
 					<div class="contact-item">
 						<h3>Address</h3>
 						<p>
-						8901 Marmora Road, Glasgow, D04 89GR.</p>
+						Guanacaste, Costa Rica</p>
 					</div>
-					<div class="contact-item">
+					<div class="contact-item emails">
 						<h3>Email</h3>
 						<p>
-						info@guanacastehowlertravel.com</p>
+						info@guanacastehowlertravel.com reservations@guanacastehowlertravel.com</p>
 					</div>
 					<div class="contact-item">
 						<h3>Follow Us</h3>

@@ -24,7 +24,7 @@
 <header class="header">
 		<div class="inner">
 			
-			<a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="header-logo"><img src="<?php echo get_template_directory_uri();  ?>/img/logo.png" alt="Howler Travel"><span class="header-logo-text">Howler Travel</span></a>
+			<a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="header-logo"><img src="<?php echo get_template_directory_uri();  ?>/img/logo.png" alt="Howler Travel"><span class="header-logo-text">Guanacaste Howler Travel</span></a>
 		
 			<?php wp_nav_menu( array(
 	                     'theme_location' => 'primary',
@@ -45,8 +45,8 @@
 	<section class="banner" style="background-image: url('<?php echo get_template_directory_uri();  ?>/img/banner1.jpg');">
 		<div class="inner">
 	  	  		<div class="item-info txt-center">
-	  	  			<h1>Lorem ipsum dolor sit amet</h1>
-	  	  			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae accusamus, sapiente natus aperiam harum, obcaecati illo beatae fuga est velit sint aut, repellendus veniam laborum hic eligendi quo molestiae dignissimos!</p>
+	  	  			<h1>Travel with the experts</h1>
+	  	  			<p>Travel with Guanacaste Howler Travel</p>
 	  	  			
 	  	  		</div>
 	  	  		

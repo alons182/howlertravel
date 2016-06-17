@@ -119,13 +119,25 @@ get_header(); ?>
 </section>
 <section id="testimonials" class="testimonials">
 	<div class="inner">
-		<div class="testimonials-item">
-			<i class="fa fa-quote-left"></i>
-			<p>Magni laborum asperiores eaque sapiente ut dolorem molestiae necessitatibus ullam laudantium veritatis enim fuga dignissimos maiores Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis quibusdam iure facere dolores necessitatibus, reprehenderit, sunt commodi eligendi quas aliquid libero possimus explicabo, nihil recusandae dicta praesentium nisi, quod facilis! </p>
-			<i class="fa fa-quote-right"></i>
-			<h3>Lorem ipsum dolor sit amet</h3>
-			
+		<div class="owl-carousel">
+			<div class="testimonials-item">
+				<i class="fa fa-quote-left"></i>
+				<p>As one of the most popular provinces in Costa Rica, Guanacaste has gained a name for itself as a tropical paradise with a pristine shoreline, beautiful mountain ranges and a number of volcanoes. Visitors are drawn to the long summer days, active culture and unparalleled wildlife. Located in the far northwest corner of Costa Rica, Guanacaste's geographical features are diverse and exotic. With endless options for recreation, there are countless reasons why locals and international visitors alike travel to Guanacaste.</p>
+				<i class="fa fa-quote-right"></i>
+				<h3>Visit Guanacaste, Costa Rica</h3>
+				
+			</div>
+			<div class="testimonials-item">
+				<i class="fa fa-quote-left"></i>
+				<p>The incomparable beauty of its landscapes, which ranges from tropical dry forests to lowland mountain forests, its warm climate, as well as its flourishing nature have made Guanacaste one of the most heavily visited areas by locals as well as international tourists and is one of the most developed areas because of its high level of investment in the hotel industry that is in high demand.</p>
+				<i class="fa fa-quote-right"></i>
+				
+				
+			</div>
 		</div>
+		
+
+		
 	</div>
 </section>
 	
