@@ -15,36 +15,36 @@ get_header(); ?>
 							<!-- <i class="icon-car"></i> -->
 						</figure>
 						<div class="services-info">
-							<a href="<?php echo esc_url( home_url( '/transportation' ) ); ?>" ><h2>Transportation</h2></a>
+							<h2>Transportation</h2>
 							<p>
 								Private Transportation from (LIR) Liberia Airport, Liberia, CR to...
 							</p>
 						</div>
-						
+						<a href="<?php echo esc_url( home_url( '/transportation' ) ); ?>" ></a>
 					</div>
 					<div class="services-item">
 						<figure style="background-image:url('<?php echo get_template_directory_uri();  ?>/img/one-day-tours.jpg');">
 							<!-- <i class="fa fa-star"></i> -->
 						</figure>
 						<div class="services-info">
-							<a href="<?php echo esc_url( home_url( '/one-day-tours' ) ); ?>" ><h2>One Day Tours</h2></a>
+							<h2>One Day Tours</h2>
 							<p>
 								Want a full day tour experience, you can choose adventure, natural walks, cultural tours and more !! 
 							</p>
 						</div>
-						
+						<a href="<?php echo esc_url( home_url( '/one-day-tours' ) ); ?>" ></a>
 					</div>
 					<div class="services-item">
 						<figure style="background-image:url('<?php echo get_template_directory_uri();  ?>/img/flight-stats.jpg');">
 							<!-- <i class="fa fa-plane"></i> -->
 						</figure>
 						<div class="services-info">
-							<a href="http://www.flightstats.com/" target="_blank"><h2>Flight Stats</h2></a>
+							<h2>Flight Stats</h2>
 							<p>
 								 Check  Flight Status Information from any airline, just click here
 							</p>
 						</div>
-						
+						<a href="http://www.flightstats.com/" target="_blank"></a>
 					</div>
 					
 				</div>
