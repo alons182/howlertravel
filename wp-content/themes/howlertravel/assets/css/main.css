@@ -689,7 +689,7 @@ textarea {
 }
 .wpcf7-submit,
 .btn-rojo {
-  background: #e3603d;
+  background: #ffb233;
   color: #fff;
 }
 .inner {
@@ -722,7 +722,7 @@ textarea {
 }
 .header-menu {
   display: none;
-  background-color: #e3603d;
+  background-color: #ffb233;
   position: absolute;
   top: 138px;
   left: 0;
@@ -738,7 +738,7 @@ textarea {
 }
 .header-btn-menu {
   display: block;
-  background-color: #e3603d;
+  background-color: #ffb233;
   color: #fff;
   border: none;
   font-size: 1.5rem;
@@ -789,7 +789,7 @@ textarea {
     margin: 0 0.5rem;
   }
   .header-menu .current-menu-item a {
-    background-color: #e3603d;
+    background-color: #ffb233;
   }
   .header-menu-link,
   .header-menu a {
@@ -799,7 +799,7 @@ textarea {
   }
   .header-menu-link:hover,
   .header-menu a:hover {
-    background-color: #e3603d;
+    background-color: #ffb233;
   }
   .header-btn-menu {
     display: none;
@@ -900,11 +900,15 @@ textarea {
 .services-item figure {
   float: none;
   overflow: visible;
-  background-color: #45382d;
   height: 199px;
   margin: 0px;
   text-align: center;
   position: relative;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .services-item figure i {
   font-size: 5rem;
@@ -1036,7 +1040,7 @@ textarea {
   content: '\f058';
   font-family: 'FontAwesome';
   padding-right: 0.5rem;
-  color: #e3603d;
+  color: #ffb233;
   font-size: 1rem;
 }
 .hotels-ul a {
@@ -1071,7 +1075,7 @@ textarea {
   position: relative;
 }
 .tours-item:hover .tours-item-title {
-  color: #e3603d;
+  color: #ffb233;
 }
 .tours-item-title {
   font-size: 0.8rem;
@@ -1126,7 +1130,7 @@ textarea {
   margin-left: 15px;
 }
 .additional-info > div h2 {
-  background-color: #e3603d;
+  background-color: #ffb233;
   color: #fff;
   text-align: center;
   padding: 0 0.3rem;
@@ -1208,7 +1212,7 @@ textarea {
   float: right;
 }
 .contact {
-  background-color: #e3603d;
+  background-color: #ffb233;
   color: #fff;
   padding-top: 30px;
   padding-bottom: 30px;

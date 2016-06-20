@@ -11,8 +11,8 @@ get_header(); ?>
 				<h1 class="services-title">Featured Services</h1>
 				<div class="services-container">
 					<div class="services-item">
-						<figure>
-							<i class="icon-car"></i>
+						<figure style="background-image:url('<?php echo get_template_directory_uri();  ?>/img/transportation.jpg');">
+							<!-- <i class="icon-car"></i> -->
 						</figure>
 						<div class="services-info">
 							<a href="<?php echo esc_url( home_url( '/transportation' ) ); ?>" ><h2>Transportation</h2></a>
@@ -23,8 +23,8 @@ get_header(); ?>
 						
 					</div>
 					<div class="services-item">
-						<figure>
-							<i class="fa fa-star"></i>
+						<figure style="background-image:url('<?php echo get_template_directory_uri();  ?>/img/one-day-tours.jpg');">
+							<!-- <i class="fa fa-star"></i> -->
 						</figure>
 						<div class="services-info">
 							<a href="<?php echo esc_url( home_url( '/one-day-tours' ) ); ?>" ><h2>One Day Tours</h2></a>
@@ -35,8 +35,8 @@ get_header(); ?>
 						
 					</div>
 					<div class="services-item">
-						<figure>
-							<i class="fa fa-plane"></i>
+						<figure style="background-image:url('<?php echo get_template_directory_uri();  ?>/img/flight-stats.jpg');">
+							<!-- <i class="fa fa-plane"></i> -->
 						</figure>
 						<div class="services-info">
 							<a href="http://www.flightstats.com/" target="_blank"><h2>Flight Stats</h2></a>
