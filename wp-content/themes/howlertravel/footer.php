@@ -34,7 +34,7 @@
 					<div class="contact-item">
 						<h3>Follow Us</h3>
 						<div class="social">
-							<a href="#" class="social-item"><i class="icon-facebook"></i></a>
+							<a href="https://www.facebook.com/guanacastehowlertravel/" class="social-item" target="_blank"><i class="icon-facebook"></i></a>
 							<a href="#" class="social-item"><i class="icon-twitter"></i></a>
 							<a href="#" class="social-item"><i class="icon-google-plus"></i></a>
 							<a href="#" class="social-item"><i class="fa fa-instagram"></i></a>
