@@ -35,10 +35,10 @@
 						<h3>Follow Us</h3>
 						<div class="social">
 							<a href="https://www.facebook.com/guanacastehowlertravel/" class="social-item" target="_blank"><i class="icon-facebook"></i></a>
-							<a href="#" class="social-item"><i class="icon-twitter"></i></a>
-							<a href="#" class="social-item"><i class="icon-google-plus"></i></a>
-							<a href="#" class="social-item"><i class="fa fa-instagram"></i></a>
-							<a href="#" class="social-item"><i class="fa fa-skype"></i></a>
+							<a href="https://twitter.com/gtehowler" class="social-item" target="_blank"><i class="icon-twitter"></i></a>
+							<!-- <a href="#" class="social-item"><i class="icon-google-plus"></i></a> -->
+							<a href="https://www.instagram.com/gtehowler/" class="social-item" target="_blank"><i class="fa fa-instagram"></i></a>
+							<!-- <a href="#" class="social-item"><i class="fa fa-skype"></i></a> -->
 							<a href="https://www.tripadvisor.com.mx/Attraction_Review-g309240-d10467058-Reviews-Guanacaste_Howler_Travel-Liberia_Province_of_Guanacaste.html" class="social-item" target="_blank"><i class="icon-tripadvisor"></i></a>
 						</div>
 					</div>
